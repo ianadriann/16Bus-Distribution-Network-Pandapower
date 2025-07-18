@@ -34,5 +34,20 @@ Place the code file (e.g. 16bus_network.py) in your project folder.
 Run the script:
 ```bash
 python 16bus_network.py
-
+```
 The script will print power flow results and display a network visualization.
+
+📂 Output
+Voltage profile at each bus (net.res_bus)
+Load consumption at each load (net.res_load)
+Grid power supply (net.res_ext_grid)
+Interactive visualization of the radial network
+
+📖 Example Use Cases
+Educational purposes: understanding basic distribution network modeling.
+Benchmarking or testing algorithms on a simple radial network.
+Visual demonstration of power flow simulations.
+
+📬 Contact
+For questions:
+Email: ian.drs16@gmail.com
